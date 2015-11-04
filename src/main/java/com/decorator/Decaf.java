@@ -10,7 +10,7 @@ public class Decaf extends Beverage {
     }
 
     @Override
-    public double cost() {
+    public double getCost() {
         return 2.10;
     }
 }

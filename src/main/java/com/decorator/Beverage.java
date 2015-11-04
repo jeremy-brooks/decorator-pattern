@@ -14,5 +14,5 @@ public abstract class Beverage {
         this.description = description;
     }
 
-    public abstract double cost();
+    public abstract double getCost();
 }
