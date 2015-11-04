@@ -9,7 +9,7 @@ import com.decorator.extras.Whip;
 /**
  * Created by jbrooks on 04/11/2015.
  */
-public class makeSomeCoffee {
+public class MakeSomeCoffees {
     public static void main(String args[]){
 
         Beverage espresso = new Espresso();
